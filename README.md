@@ -1,4 +1,4 @@
-<h1> espaço par a estudo= de GitRub </h1>
+<h1> espaço par a estudo de GitRub </h1>
 <p>Status do estudo: em andamento</p>
  <p>para estuar é preciso ter:</p>
   
